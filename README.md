@@ -16,7 +16,11 @@
     </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  </p>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="react-router" width="40" height="40"/> </a>
+     <a href="https://formik.org/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/8846/preview.png" alt="formik" width="40" height="40"/> </a>
+     <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="materialUI" width="40" height="40"/> </a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
