@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Pıhlıs</h1>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> 
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1kdWNxbnZhaWUyemwzdXd6c29rYnk2b3owcGJ2ajdxdG92MTQwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eLGzgzgySiRJS/giphy.gif" /> 
 </p>
  
 
